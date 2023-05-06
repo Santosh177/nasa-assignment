@@ -1,0 +1,22 @@
+
+h2{
+    margin-left: 1vh;
+}
+.label{
+    background-color: paleturquoise;
+    margin-left: 2vh;
+    padding:1vh;
+}
+.Date{
+    background-color:rosybrown;
+    color:white;
+    margin:1vh;
+    padding:1vh;
+
+}
+.btn{
+    background-color: black;
+    color:white;
+    margin:1vh;
+    padding:1vh;
+}
